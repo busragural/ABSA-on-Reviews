@@ -1,0 +1,501 @@
+Word,Frequency,Updated_Frequency_w2v,Similar_Words_w2v
+good,6931,7247,"wise, enjoyed, impressed, impressive, liked, alot"
+food,6667,6667,None
+place,6079,6632,"weekday, casual, prebooking, pub, peaceful, evening, terrace, relax, gang, happing, sky, nucleya, sunset, playlist, shack, tiki"
+order,3474,3964,"arrive, parcel, burnt, send, via, waa, sent, jumbo, faasos, square, waited, wrong, singaporean, lollipop"
+service,3304,3478,"improvise, bringing, handling, behavior, maintained, serving, sevice, responsive, tushar, servicing, descent, suvendu, akash, dancefloor, steward, raza"
+chicken,3103,5526,"drum, chiken, stick, boneless, pao, sizzle, bamboo, babycorn, drumstick, smoky, patty, lamb, popcorn, served, cooked, bbq, royyala, breast, nugget, undercooked, toss, lasooni, roast, dragon, leg, pomfret, kung, kabab, flavourful, macaroni, grilled, prawns, murg, dum, succulent, chichen, shoot, marinate, teriyaki, murrel, lasagne, tangidi, bangla, kodi, vepudu, rosemary, ghost, coat, golden, masalas, nawabi, mamsam, pandumirchi, buffalo, stew, tawa, flavorful, dumpling, kalmi, kheema, murgh, rogan, mince, spring, mash, moroccan, peri, batter, char, looked, chunky, godavari, mirchi, pahadi, dice, marag, bone, marinating, manchuria, devil, boil, lollypop, bhuna, chickn, handi, cashew, lazeez"
+taste,2971,3503,"muda, preparation, consistency, test, bheemavaram, oily, except, thick, gongura, pachi, pulav, ragi, manchuri, salan, broth"
+ambience,2128,2249,"atmosphere, setup, deck, ambeince"
+one,2040,2108,easily
+time,2021,2026,gap
+great,1978,2251,"fantastic, fabulous, exceptional, ripan, shakeel, loved, wow, continuous"
+try,1942,1955,"admit, paani, chettinadu"
+go,1873,2094,"hop, invited, out, reunion, post, schedule, afternoon, dissapointed, thursday"
+like,1740,1782,"dint, coocked"
+visit,1728,1770,"overallrating, pachimirchi, epic, recommendable, buddy, sucker"
+really,1674,1732,govind
+also,1599,1657,sufficient
+serve,1507,1602,"refill, finger, dhal, jal"
+well,1507,1554,nicely
+restaurant,1449,1933,"neatness, branch, gvk, glad, title, urban, asia, hyatt, khaan, pavilion, saab, facility, common, china, diner, chaos, maintenance, mismatch, kritunga, banjara, justice"
+best,1448,1547,"unique, jewel, favourites"
+nice,1443,1682,"gochibowli, verry, chilling, sober, mainly, lightly, maincource, servise, cozy, awsm, warm"
+staff,1420,1640,"patient, karthik, ware, crew, vallet, courtious, efficient, understanding, waitress, gentleman, yamuna, professional, attend, requirement, ravi, nature, surender"
+biryani,1403,1889,"ulavacharu, musalam, motton, kaju, piecec, ate, palav, raju, briyani, gari, manchuryia, fahm, comparing, afghani, josh, biryans, pulavs, tuglaq, lucknowi, avakai, kunda, suprise, shah, ghouse, kotha, natukodi, paradise, ugly, shortage, tasting, avg, bagara, behrouz, avakaya"
+get,1378,2023,"beforehand, realise, generate, inspite, occupy, hr, spell, quickly, booking, due, advise, despite, operate, mostly, queue, inform, cancel, reserve, beware, struggle, sometimes, switch, saw, pass, empty"
+veg,1247,1447,"drinker, dancer, alcoholic, vegeterians, braise, edition, spl, shank, mezze, flavorsome, standout, appetiser, subz, nonveg, manchurian"
+experience,1247,1247,None
+love,1244,1401,"blow, crave, fav, doner"
+bad,1162,2651,"worst, terrible, spoil, stale, awful, tasteless, rotten, dump, foul, insect, consumer, throw, stink, uncooked, loosing, cockroach, bug, disgust, either, thee, thrown, dustbin, drip, irresponsible, ruin, hair, informed, recieved, contaminate, suppose, degrade, disappointing, unwell, life, fake, shock, hate, leftover, edible, desirable, earlier, acceptable, fail, shameful, didnt, spoiled, hopeless, coloured, dissatisfy, filthy, mess, cloth, replace, munchuria, shitty, lucknow, upset, didnot, left, bother, semi, turmeric, disaster, found, beggar, rudely, soggy"
+make,1106,1108,mutabak
+starter,1088,1631,"maki, cripsy, appetizer, stater, apollo, mashroom, pakoda, few, stem, lotus, sheek, drumsticks, seekh, sushi, baby, chestnut, reminder, appollo, barbeque, carte, mock, tempura, manchow, demarcation"
+would,1074,1273,"personally, others, strongly, certainly"
+come,1065,1065,None
+even,1035,1596,"asked, functional, refuse, mosquito, hardly, short, napkin, hurry, cant, mistake, manger, atleast, token, dounut, pantry, complain, overcrowd, tip, tissue, reservation, occupancy, chatter, ac, dirty"
+dish,1026,1341,"beef, andhra, curated, signature, sikandari, sukha, speciality, rib, wok, raan, condiment, delicacy, vikrant"
+give,955,1127,"zero, coz, deserve, deduct, couldnt, unbearable, negative"
+must,953,956,grate
+quality,867,1124,"hygienic, reduce, packing, health, availble, unbelievable, pricing, satisfactory, increase"
+price,853,1129,"costly, effective, overpriced, pricy, buck, pricey, justify, moderate, recomended, rs, inclusive, prize"
+awesome,845,1051,"awsome, testy, lite, roshan, nitish, papiya, mouthwatering, biswajit, pankaj, guidance, ranch, gud, shivam, niranjan, sabir"
+take,803,897,"affection, pavan, later, mannerless, complained, assure"
+rice,786,1767,"schezuan, steam, jeera, steamed, plain, schezwan, curd, phad, wet, hakka, basmati, stir, mixed, udon, naga, singapore, pad, saalan, brinjal, bap, subzi, bibimbap, maggie, ramyun, sambar, khow, potpourri, xacuti, bhindi, colored, raita, kalkuksu, sweeter, szechuan, shallow, millet, garnish, ghee, ghosht, grass, gobi, omlet, coke, roties, oyster, excess, chopsuey, chapati, soba, jjigae, goreng, phak, nasi, texture"
+overall,770,770,None
+friend,755,815,"frnds, masti, nri, thoroughly, ambienece, hearty"
+drink,733,1265,"alcohol, grape, wine, cocktails, julep, cranberry, zen, whiskey, mocktail, virgin, margarita, lemonade, shots, mojito, liit, sangria, juice, exchange, budweiser, included, thirst, draught, pint, latin, peach, kingfisher"
+item,731,844,"limit, limited"
+recommend,718,775,"recommended, revisit"
+menu,715,1039,"cart, elaborate, interest, vast, offering, extensive, range, selection, unavailable, wide"
+paneer,714,2109,"bhara, hara, panner, bhutte, kulcha, savera, rotis, shaam, lababdar, daal, kadai, bhurji, achaari, sabzi, kofta, papad, kadhai, kulchas, makhni, malai, warki, lehsooni, achari, parantha, papdi, gobhi, chana, chkn, laccha, sabji, fulka, paav, romali, dahi, palak, puris, lacha, pasanda, judwa, tikki, mirch, kashmiri, chola, ke, kathi, aur, stuffed, miloni, choley, galouti, methi, panneer, parathas, hari, alu, dosa, chur, matar, rara, amritsari, rajma, bhami, wakto, dollop, mast, accompaniment, tofu, lachha, galaouti, tadka, kali, poori, lachcha, nargisi, chilla, puri"
+tasty,708,711,kasmiri
+buffet,687,1094,"ala, brunch, lavish, alacarte, unconventional, unlimited, desserts, layout, opt, la, teammate, carve, radisson"
+quantity,686,693,"suffice, quanity"
+much,671,712,ordinary
+say,669,669,None
+amaze,659,747,"highlight, outstanding, cor, delightful"
+delicious,646,1053,"yumm, lip, delight, delectable, smack, basket, presentation, favrte, enhance, combination"
+ambiance,641,869,"dining, vibe, decor, environment"
+fry,616,1429,"dimsums, french, bean, lollipops, bangkok, sesame, noodles, kimchi, scallion, delish, pices, chip, assorted, lasagna, ramyum, whatsoever, teppan, shrimp, chili, honey, maggi, panko, flake, pan, steak, ed, alongside, bosam, momo, yakitori, burmese, deep, balsamic, sear, stroganoff, strip, chowmein, soya, fillet, wedge"
+main,605,680,"kismiss, golf, restarent, spicey, attire, untouched, feat, evident, admin, arun, squid, fire, can"
+spicy,596,1148,"crispness, spiciness, curdy, mildly, pin, tangy, version, marination, soupy, thicker, salt, aroma, toothsome, chewy, distinct, tear, mayonnaise, bhimavaram, crisp, kura, vinegar, sour, tandoor, laila, mayo, masam, pouri, critical"
+lunch,584,1143,"st, al, tonight, collegues, corporate, yesterday, mother, venue, humongous, eve, crowdy, wife, week, bird, journey, april, parent, skip, feb, alakarte, enjoyable, thalis, bombard, chosen, customised, jonathan, recently, corporates, parallel"
+course,572,637,"coarse, asset, peshawari, khao, moto, attraction, restraunts, subsidiary, discovery, competitor, bhuvnesh, conveyer, souvlaki, incharge, rann, yang, tolichowki, clientele, static, eligible, rethink"
+friendly,566,833,"cordial, trained, humble, cooperative, operative, freindly, untrained, secure, coperative, attentive, co, hospitable, expressed, courteousness, rigid, pinch, supportive, spoken, mannered, knowledgeable, gachiwoli, warmly, pranika, hole"
+hyderabad,560,1771,"town, far, undoubtedly, famous, hill, hyd, hitech, hyderabadis, culture, trip, legendary, dawat, connoisseurs, tds, joint, expand, country, local, eleven, year, favorites, foodie, jubilee, popular, gachhibowli, madhapur, ramadan, dhabas, forum, hidden, gem, pubs, underrated, chain, ardent, forkandspoonstoryhyd, begumpet, haunt, pista, giveaway, trust, true, maas, deteriorate, award, fin, chowcha, telugu, dawaat, serf, imitation, litti, techie, claim, collage"
+look,558,558,None
+people,555,590,ppl
+eat,551,944,"stomach, fit, healthy, dust, unable, garbage, conscious, besan, nutritional, able, wonder, donot, sick, threw, ache, source, mask, bin"
+music,543,1901,"sound, band, bollywood, song, silent, background, ipl, zain, perform, loud, screen, cricket, drinks, outdoors, hollywood, performance, relaxed, system, converse, bartender, lit, smoker, video, projector, lively, watch, screening, sport, experince, lounge, football, fever, musician, bonanza, zone, electrify, stream, soothe, breeze, bright, gentle, roof, groove, track, banger, dimly, af, buzz, boring, seating, brewery, entertainment, yell, london, melodious, diz, fifa, lightning, bear, electric, crazy, artist, ans, mustang, creative, con, stadium, lighten, poolside, playing, lighting, ear"
+pizza,535,1484,"alfredo, crust, thin, pink, feta, topping, jalape, nachos, popper, ravioli, penne, risotto, primavera, pizzas, appetising, puff, wood, spaghetti, chipotle, margherita, aglio, pastas, bruschetta, mozarella, olive, california, greek, cottage, farm, salsa, olio, salami, indianised, enchiladas, pesto, panini, arabiatta, spinach, mexican, cheesy, bake, caesar, load, nacho, sub, constant, jalapeno, kabiraji"
+fish,534,805,"cilantro, phuket, lobster, crab, basa, chop, chapa, sholay, straters, bao, shu, tiger, marg, haryali, eatable, jamaican, broccoli, blacken, mai, walked, coating, lahsuni, bull, finely, nasheman, nalli"
+table,525,1546,"chair, promptly, prior, arrange, sofa, clear, cleaning, occupied, stain, already, attention, front, move, closely, uncomfortable, exit, scorch, advance, task, manage, notice, profusely, frustrate, reluctantly, confirmation, leaking, enthusiastic, cab, sat, clothes, cross, difficult, washroom, menus, sun, fight, privilege, sweat, rather, thereafter, shout, visiting, walk, immediately, typically, entry, noticed, deaf, nearer, speaker, problem, question, escalate, story, mins, positive"
+lot,521,521,None
+little,520,1203,"tad, otherwise, slightly, lil, heavy, okayish, improvement, better, lack, fair, dull, consider, lower, dominate"
+zomato,514,1162,"membership, benefit, app, accept, applicable, dineout, coupon, contact, incorrect, paytm, publish, unlock, shell, refund, credit, advantage, domino, eats, cult, discount, cheaply, unlocked, swiggy, mail, invisible, payment, uber, iftar, rat, avail, inspection, unresponsive, fault, bogo, tge, correct, pinacoladas, decline, scroll, network, accepts, cure, unethical, respond, kindly"
+money,513,553,"sentiment, penny, approx, spending, sake, practice"
+worth,510,659,"worthy, wastage, genuinely, earn, affordable, economical, nominal, loot, ovenstory, unpalatable"
+cake,502,2021,"cooky, cupcake, ganache, velvet, lava, kg, tiramisu, eggless, choco, frost, whatsapp, cheesecake, labonel, walnut, ugh, cupcakes, blueberry, browine, phirni, forest, butterscotch, custard, death, muffin, mocha, mousse, doughnut, osmania, cup, craze, tart, fudge, barfi, biscuit, sugary, icecream, foodgasm, raspberry, pudding, rocher, toffee, biscuits, fondant, buy, cookie, walnuts, chocolava, slush, vanilla, kit, director, au, bagel, ferrero, gelato, berry, ought, caramel, danish, fondue, chocolates, nutella, hazelnut, wonka, detox, kitkat, croissant, chocochip, marble, kulfi, willy, chocolatey, sweettooth, truffle, stunner, overload, sadness, espresso, rainbow, donuts, avalanche, tempteys, overdose, spongy, permanent, chocolaty, indulge, creme, decadent, palm, onsite, swiss, exotica"
+variety,498,709,"varities, variation, variant, various, sushis, subhendu, continental, salads, european, usa, kulfis, array, sweets"
+decent,494,517,"okish, decently"
+definitely,492,587,"surely, speechless"
+want,490,1034,"whenever, someone, plan, free, hell, anybody, future, chance, risk, regret, hungry, intention, pls, unfortunate, business"
+never,490,1008,"kfc, everytime, horribly, return, cheat, frequent, imagine, sorry, lose, unhygienic, realize, wasting, utterly, nom, repeat, whether, starve, secondly, living, seriously, fact, anywhere, nightmare"
+cream,485,741,"serv, island, solid, jamuns, chocovala, paan, crushed, nitrogen, rasgulla, jamun, homemade, liquid, gulab, milkshake"
+thing,485,502,impression
+could,484,484,None
+less,480,674,"per, normal, kothimeera, ourself"
+first,480,676,"recent, rd, month, puzzle, th, gvkone"
+option,480,497,"fr, jain, revolve, golgappe"
+ask,480,1605,"reply, enquire, bothered, upon, agree, irritate, explain, argue, apologised, constantly, speak, politely, apologize, concern, answer, abt, force, spoon, clue, specifically, minimum, courtesy, ready, none, blatantly, thrice, understand, literally, duration, deny, beg, apparently, raise, ignore, message, broken, argument, aware, act, apology, matter, worry, cite, desk, whatever, chaas, dreadful, stand, bottle, brought"
+though,468,552,rest
+dinner,468,772,"jonathon, session, brother, marriage, romantic, son, celebrate, lazy, sum, firstly, holi, shubro, anniversary, occasion"
+quite,464,559,"minimalistic, ample, quiet, divide"
+enjoy,463,560,"game, weekdays, yadav, praveen, yu, togethers, fri"
+soup,457,733,"jade, minestrone, gai, tom, wanton, lemony, gung, paya, kha, wonton, shorba, talumein, coriander, yakhni, ghai, chow, corriander, chopsey, choupsey, eight, satay, coconut, dimsum"
+ice,455,566,"stone, goey, whip, amul, jalebi, laughter, pastrie, disposable, cuddle, bready"
+excellent,451,1053,"bahadur, jayanta, anil, tremendous, anup, sakeel, surjeet, suraj, sahil, unparalled, ambince, bs, raj, tapan, gobind, appreciate, ranjit, rahmat, keshav, bro, rightfully, ritam, agen, krishna, kudos, nandan, ratul, sk, rahamat, ab, ashish, mantu, assist, pritam, srinivas, sai, srikanth, abhishek, verity, diffenitly, akhil, indi, saleem, kumar, plentiful, alauddin, naveen, dharma, das, pappu, soumen, sunny, narender, abhay, mon, deepak, bestestest, sarveshwar, timely"
+dessert,450,783,"gulabjamun, rabdi, halwa, kheer, gajar, kaddu, rabadi, firni, matka, jilebi, complimentary, meetha, kurbani, tukda, angarey, grey, rasmalai, gil, junnu, joke, alaska, pasteries, qubani, gulabjamoon, icecreams, sweeth, firdaus, macarons, kher, jamoon, cereal"
+bit,450,455,manageable
+day,449,760,"ensemble, aatish, sunlight, bday, valentine, continue, decided, ago, squeeze, memorable, consecutive, event, daughter, vomit, monday, husband, national, birth, disturb, tastebud, struggled, pleasure, celebration, balia, spouse"
+customer,441,1483,"attitude, unprofessional, owner, face, employee, respect, response, disinterested, towards, ill, responsibility, train, sense, phone, nithin, manner, frankly, support, costumer, handle, behaviour, swipe, feedback, behave, groom, communication, educate, apologise, query, dissappointed, reddy, folk, impatient, doesnt, regard, slip, hygiene, arrogant, professionalism, bullshit, mobile, cleanliness, irony, billing, timing, professionally, convey, responsible, abhiveer, detail, parmeshwar, reluctant, website, bananaleaf, integrity, needs, plz"
+non,440,498,"khaya, prepares, pure, strters, vegeterian, munchurian, luncheon"
+special,440,470,"sudhir, shanghai, sikendari, chepa, lust"
+need,439,467,"scope, improved, segregation"
+curry,439,612,"rajiala, chettinad, korma, peas, patta, cutlet, western, nizami, sabudhana, appetizing, kolhapuri, ki, vada, chatpata, palette, marinated, jasmine"
+delivery,436,966,"delightfully, boy, package, zomoto, doorstep, spill, delivered, seal, foil, tamper, hundi, spillage, user, packet, delay, method, aluminium, straw, container, qty, executive, jupiter, spilled, bee, zara, status, hunger, pepsi, speedy, edit, register, neatly, cary, colony, nd, careful, delivary, guality, agent, fasoos, warest"
+sauce,427,1142,"white, parmesan, shred, texas, pattaya, jerk, tasted, dip, mustard, creamy, lettuce, bell, original, basil, black, farmer, seasoning, sticky, soy, mashed, cabbage, ring, amazon, crunchy, brown, konaseema, glaze, saut, zucchini, exotic, carbonara, powder, dress, herb, drizzle"
+burger,425,836,"zinger, galaxy, bakes, cosmic, hotdog, bun, krunchy, milkyway, charcoal, mex, comet, milky, mcdonalds, dunkin, hash, lucy, mercury, wrapper, wild, lychee, ks, buns, venus, maska, bang, shawarama, tex, quiche, baker, anda, karachi, muffins, dog, shawarmas, substantial, layer"
+find,425,649,"takeout, surprising, guess, default, nowadays, difference, nearby, deli, complex, fly, perhaps"
+cheese,421,873,"toast, ball, slice, filling, jalepeno, mozzarella, brocolli, arrabiata, omelette, pakode, pita, fold, freshly, parotta, latte, omlette, moongdaal, saute, flour, calzone, samosa, generous, pineapple, taco, kernel, fluffy, oregano, cheddar"
+night,420,606,"wednesday, iqbal, karaoke, lady, saturdays, breezer, scene, wee, freeze, girl, crowded, heyy, rainy"
+ever,419,529,"eaten, bye, omg, shittiest, disastrous, restuarent, iam, gazar, god, uneatable, biiyani, distasteful, opinion"
+perfect,417,613,"sumptuous, apt, ideal, rich, blend, subtle"
+average,414,661,"overprice, mediocre, disappointment, standard, extraordinary"
+gachibowli,407,1493,"dlf, situate, terminal, nagar, indira, prime, sln, opposite, terminus, mall, building, indra, hostel, circle, financial, court, easy, district, bistro, spot, deloitte, cosy, road, access, indiranagar, centrally, highway, kondapur, manikonda, flyover, amidst, beside, boulder, tree, conveniently, renowned, hyderbad, wipro, snl, meenakshi, lane, prominently, junction, ikea, khajaguda, street, cluster, hub, travel, opp, accessible, central, prominent, amid, platina, sufficiently, bio, ride, drive, synonymous, ramky, nizampet, biodiversity, jubliee, orr, waverock, arena, arabic, tech, kiosk"
+ok,398,412,ish
+chocolate,394,979,"choclate, oreo, kat, sugar, almond, banana, waffle, nutty, merry, boston, cherry, milk, apple, pancake, baklava, tropical, laddu, syrup, pie, smoothie, bombay, toblerone, litchi, jaggery"
+sweet,391,1367,"sweetness, overly, ginger, pinacolada, tooth, palate, orange, punch, balance, tinge, colada, pina, intense, dense, blue, minty, pannacotta, chokka, nut, seed, mojitos, cucumber, refresh, strawberry, strong, incredibly, yoghurt, poppy, cinnamon, spicier, citrus, tamarind, content, colour, jenever, bud, carrot, tingle, citroen, soda, bitter, pinacolda, dough, hint, currant, blond, conventional, tango, kesar, cooler"
+feel,391,406,"tin, homely"
+tikka,384,623,"cylindo, majestic, tikkas, angara, tundey, hariyali, hong, reshmi, tangdi, kong, lahori, sabz, kebabs, musallam, kababs, jwalamukhi, butte, bhatti, adraki, afgani, rajwada, shikampuri, tangri, khandar, de"
+butter,382,742,"di, patiala, baida, buttery, shikari, makhanwala, saag, stuffing, sarson, keema, gosht, makki, punjab, missi, pander, lassi, pudina, anyhow, moong, ajwain, zafrani, flaky, medicinal, kadi, shahi"
+hot,379,390,"steamy, pip, almonds"
+cook,379,739,"perfection, smelly, patrani, meaty, raw, marinade, skin, clove, rubbery, yuk, chew, herbs, cumin, paste, shami, chunk, salty, pungent, seasoned, fat, skewer, overcook, notion, balanced"
+mutton,376,441,"raans, nihari, chepala, pathar, sikanderi, laham, gadwal, khaas, normally, nellore, galauti, musttry"
+noodle,371,424,"haka, suey, stake, watery, raymun, gyoza, vietnamese, wasabi"
+family,370,404,"girlfriend, scale, toofan, supper, proud, gathering, saba, subendhu"
+indian,369,1027,"south, eastern, east, asian, typical, frontier, mughlai, oriental, enquired, delhi, italian, chhole, uttapam, indo, japanese, korean, kulche, telangana, vade, messy, tacos, dosas, festival, sardarji, poha, multi, chole, bhature, mediterranean, cusine, bhalle, gappe, kadhi, northern, chaats"
+amazing,367,535,"cheer, pleasant, blazin, ultimate, visuals, nath"
+always,366,397,"consistent, thorough, therefore"
+many,364,475,"several, bookmark, sweetdish, read, hrs"
+pretty,361,468,"brighter, spacious, dim, antique"
+everything,358,393,"customize, viroopa, customise"
+different,354,409,"quesadillas, baked, entirely, traditional"
+seat,349,1308,"arrangement, comfortable, couch, indoors, decorate, cushion, hall, inviting, alfresco, sittin, corner, air, separate, comfy, private, wooden, motor, parking, decorative, entrance, arranged, pool, large, balcony, furniture, designer, unit, congest, decoration, serene, door, brick, strength, idol, inspired, plant, plush, attractive, calm, park, design, conjusted, equip, played, window, lobby, weather, mould"
+piece,348,735,"eater, finish, shwarma, single, rumali, raitha, barely, medium, malabar, peices, tiny, norm, layered, linen, tastewise, pc, parotas, teeth, smelt, rupee, textured"
+guy,348,784,"guys, greatly, ali, man, job, duty, success, peacefully, ashalivelovefood, luck, guyz, dinesh, thanx, estimate, azad, rocking, akshay, rock, fitness, reading, slap, ranjith, titu, jolly, suhail, sonu, ensure, varun, singh, kyn, treatment, publicity, rahul, bow, diwali, atm, effort, hopefully, instance, policy, kuldeep, possible, idle, mallesh"
+wait,344,464,"lethargic, peak, patience, spite, within, sometime, heed, km, aways"
+kebab,342,378,"boti, chelo, lko, shikampur, jhinga, harabara, evenly, nasheela, patthar"
+know,338,995,"unusual, fool, particular, curse, sell, fuck, disconnect, siddharth, believe, sg, public, insist, cough, attach, sad, deposit, rougue, tease, exact, actual, unsatisfied, misbehave, image, stock, describe, card, confusion, brand, popularity, entire, remember, told, certain, listen, case, providing"
+every,337,339,asusual
+crowd,337,570,"rush, sort, volume, cramp, becoz, miracle, tire, noisy, tight, stag, stall, wd, gather, attracts, pl, chitchat, overrate, pax, energy, ticket, preferably"
+team,336,698,"host, salim, embarrass, wed, cascade, attendant, mahesh, mazzo, shantanu, narendra, naresh, nitin, thay, marsalafoodcompany, hamid, member, client, overwhelmed, gopal, khan, leisure, throughout, flechazo, flight, vila, amit, pradeep, ekrabul, render"
+star,335,362,"minus, calculate, bcoz, pros, flaw"
+small,330,497,"enlighten, cute, tuck, comfortably, pune, ccd, cram, windows, neat, ceramic, cover"
+keep,329,467,"roy, smile, asap, centric, machine, kunal, foot, fnb, entertain, unwilling, tab, warmth, hema, impeccable, hardworking"
+prawn,326,350,"deojikalbi, pei, uramaki, shabir, magnificent, puo, burj"
+big,322,322,None
+top,322,627,"moist, smooth, eye, classic, cardamom, pine, khalifa, richness, slather, notch, stiff, greeting, salmon, enclose, mild, garlicky, exquisite, caramelize"
+masala,317,425,"peanut, sambhar, pickle, idly, mashad, contain"
+fresh,316,588,"wheat, ingredient, frozen, freshness, tube, yogurt, connoisseur, heavenly, crumb, watermelon, cut, maida, sourdough, cajun, lipsmacking, yellow, brule, vodka, gin, crunch, praws"
+two,315,510,"three, four, roughly, brim, havoc, shocked, fledge, plat, appetite"
+back,314,428,"memory, rescue, often, meh, calmness, forever, soul, paranthes, gon"
+flavour,312,375,"aromatic, crispyness, guava, kick, tanginess, artificial, shade, badam, pomegranate, overpower"
+way,312,447,"soo, personnel, instruction, ton, abhinav, criterion, knowledge, rectify, process, abundance"
+thanks,312,464,"dilawar, rajesh, bdubs, prabhu, shoutout, gesture, manoj, zega, sudhakar, vijay, shuvro, hostess, neel, aritra, dharmender"
+expect,311,466,"knew, hype, contrary, wasnt, blind, potential, somehow, eating, decrease, dissapoints"
+review,311,722,"update, write, unfortunately, heard, hundred, honest, detailed, revise, lazeezgrammer, prove, hearing, blog, overdue, misleading, confirm, dec, pending, platinum, statement, incident, wishlist, marsala, exp, hear"
+corn,306,355,"cube, kekab, turnover, cub, chestnuts, observe, namely, kothu, nazakat, kurma"
+think,304,694,"avoid, somewhere, praise, total, reaction, across, purchase, search, advice, example, store, dare, comment, flag, situation, row, temporary"
+start,304,466,"impossible, lagoon, begin, allocate, sore, sip, six, lost, slowly, summer, komatose, onto"
+pasta,303,344,"savour, bacon, shepard, blowing, mains, flock, mongolian, smokey, rancid"
+chinese,303,396,"chineese, sea, northeastern, ohh, flavorism, rupees, subba, coastal, hometown, mainland"
+offer,302,361,"related, sadly, deal, bonus"
+high,301,502,"reasonably, higher, steep, relation, cheap, tag, occasional, hike, used, abd, negotiate, compromise, sensex, economically, daba, moderately, market, midway, nearbuy, general"
+party,300,630,"conversation, prism, evenings, security, discrimination, animal, drunk, land, inn, accommodate, hectic, edm, organize, suketu, holiday, skyhy, booked, anthony, young, adult, chit, bunch, organise, candle, escort, aswell, cater, promote, child, meeting, software"
+see,299,736,"enter, dismay, gate, pic, run, push, id, shame, pee, female, grow, dan, path, cat, traffic, challan, figure, pipe, learnt, company, relative, carry, block, wave, lock, admire, straight"
+polite,299,382,"corteous, ajay, anmol, internal, shekhar, welcoming, manav, reallly, chief, mature, interactive, sarvice, barnali, mukherjee, commendable, varsha"
+especially,298,317,"exceptionally, procedure, lasgna"
+use,298,627,"realy, scent, grease, plastic, cutlery, ketchup, ml, complaining, smelling, burn, usage, paper, fork, leak, littis, apply, purely, softer, material, storage, mean, excessive, wash, optional"
+floor,295,525,"ground, bounce, allow, upper, tower, kapil, tv, ups, icici, liquor, smoking, overlook, pitch, vip, girls, capacity, valet, third"
+available,291,330,"kf, display, bluntly, maximum, ultra"
+deliver,290,395,"collect, incomplete, notify, chase, reminded, promise, suffer, replacement, cheater, error, pouch, funny, parathe, ridiculous, false"
+waiter,289,395,"bouncer, cashier, repeatedly, interested, aditya, clearly, stewardess, odia, anyways, connect, wtf"
+around,287,553,"closing, fee, ter, tie, basement, build, picture, seater, wallet, log, movie, newly, fro, early, noon, neighborhood, sparsely, max, adjacent, campus, nearly, demand, mindset"
+sure,281,292,"gotten, utmost, gladly, hospitalise"
+wing,281,353,"american, discover, blaze, om, surroundings"
+name,280,458,"word, lie, cusines, angry, sab, baharat, tradition, region, fall, recipe"
+call,280,342,"pickup, address, mismanagement, clarify, repair, wanted, report, shut"
+hangout,279,390,"windy, grt, njoy, crow, hip, youngster, energetic, unwind, streaming, booze, heavily, partho, croud, freak, brew"
+improve,278,369,"maintain, minor, privacy"
+crispy,276,289,"blanch, sausage"
+please,276,365,"odd, awasome, caser, fully, excuse, blame, loyal, arrival"
+area,274,509,"resto, signal, theme, classy, nook, wall, catch, gachiwali, centre, elephant"
+nothing,274,274,None
+beer,273,650,"cider, pitcher, witte, trappe, chambourlette, belgian, sampler, dubbel, brewed, stallion, import, martini, craft, dunkel, kamal, erdinger, tequila, drought, cosmo, otm, trappist, tilt, bucket, moonlit, corona, kriek, weisbier, zesty, quench, preservative, schuimzuiper, stout, monk, tap, silu, sunrise, kreik, cosmopolitan, german, beach, barbar, chamborlette, sex, ale, beverage, rajuddin, mug, hero, bonel, slushies, twist, jacket, lager"
+chilli,271,280,treasure
+coffee,270,562,"cappuccino, filter, crusher, iced, frappe, bike, eclat, thickshakes, capuccino, macchiato, americano, grab, lavender, drop, prefect, epitome, cibo, rent, pastery, addictive, boost, pancakes, sporty, car"
+work,270,347,"restroom, irritated, mic, bt, concentrate, boys, appreciation, student, distort, exprience, constraint, extend, ps, restart, goo"
+garlic,266,309,"croquette, saucy, accompany, maans"
+rating,266,400,"compensation, vfm, verdict, beacuse, reputation, hence"
+quick,266,271,"althought, papu"
+spice,265,332,"blunt, pot, mindblowing, tang, fatty, earthy, salivate, garam, meticulously, softness, boondi"
+happy,265,314,"precious, aww, appreciated, satisfied"
+full,264,335,"tummy, severe, wholesome, circulate, sink, resist, velvety, spoonful, honour, swallow, mesmerize"
+something,264,282,"york, convince, generic, grief"
+provide,261,381,"suggestion, gst, availability, sponsor, alternative, valuable"
+value,259,320,"churn, cleaness, frown, vain, buyer, generosity, mcd, cheated, save, evn, shravan, opportunity"
+side,256,293,"relatively, karte, ultimately, usp"
+vegetarian,252,294,"makkhani, chaat, relatable"
+part,252,252,None
+add,252,463,"ons, tartar, note, maple, infuse, color, slight, soak, sattu, distinctive, carbs, tatse, flax, gulp, unnecessary, tooty, hold, specific, sponge"
+courteous,251,279,"thoughtful, chico, exemplary, pak, anoop, santhu, suit"
+live,249,273,"musical, bhangra, chandelier, belt, resort, jungle"
+grill,247,271,"sized, oven, tenderloin, finest, discuss, minced, keto"
+dance,245,367,"stags, dhol, bore, hindi, mood, untidy, miserably, acoustic, mad, aditi"
+pack,242,277,"polythene, packed, stunning, noodels, sourness, aluminum, bag, hygeine"
+slow,241,361,"self, focus, delayed, painfully, confusing, uninterested, levy, basic"
+manager,237,244,"behalf, hostile"
+biriyani,236,277,"tanduri, masalam, roganjosh, pakwaan, birayani, khubani, natu, iguru, dhuni, hydrabadi, ulvacharu"
+soft,236,259,"amazingly, gooey"
+right,235,1021,"beautifully, hit, uniquely, present, southern, beat, brilliant, ancient, men, cheerful, protein, accommodated, transparent, quaint, modern, besides, cyberabad, poster, bustle, ability, overtly, complement, vintage, require, generation, elegance, exactly, charm, quirky, glow, tend, painting, rightly, habanero, moon, heart, retro, specialty, settle, rare, sinful, significant, manali, yeh, nostalgic, gain, paint, step, bottom, elder, spirit, desi, television, center, instantly, touch, skeptical"
+okay,235,235,None
+kind,234,251,"extent, encourage, fermentation"
+suggest,232,242,"whose, improves"
+last,231,281,"frustration, march, generally, independence, seated, rushed, doctor, fifth, mamasam"
+along,229,477,"round, flavoured, pata, consist, yummm, quesadilla, mixture, kiwi, assort, cola, vow, osum, comprise, sprinkle, chickpea, chat, frog, combine, sudden, mayonise"
+sit,228,265,"botanical, relief, ceiling, breezy, lcd"
+hour,228,406,"hassle, diarrhea, bulk, wake, anyway, tardy, bearer, eagerly, might, unhappy, luckily, nagging"
+bread,227,315,"raisin, meagre, scotch, english, pani, diet, smoothy, oat, bath"
+enough,226,226,None
+brownie,225,236,"frosting, naturally, differ, brulee"
+lover,224,309,"lods, seafood, tempt, vacation, kukure, lingers, goan"
+cold,223,333,"reheat, underwhelming, loose, enuf, bira, buttermilk, thankfully, microwave, reg, cauliflower, temperature, quarter, heat"
+water,220,457,"bottled, chilled, melon, float, peel, jug, cinderella, kinley, lamp, litre, scoop, particle, ti, temp, lime, flavored, hand, glove, throat, seller, furious, refreshing, shine"
+meal,219,286,"dose, navratri, singhada, sabudana, application, tamatar, aata, pourri, navratra, smoked, aa"
+next,218,218,None
+north,217,374,"dhaba, palace, chawal, bhatoore, unitedfoodcircle, shikanji, roadside, savor, gobsmacking, reminds, khana, norfest, west, bature, nizams, cowboy, tiffin, rayalseema"
+open,216,336,"pour, rain, transport, copper, closed, walkable, faster, lush, jam, spectacular, infront, distance, peer, courtyard, infest"
+mushroom,214,247,equally
+person,214,235,alright
+super,214,259,"burani, duper, loaded, thnx, gratitude, panda, delighted, pro"
+shawarma,214,437,"colddrink, khaliooz, doubtful, samoli, regularly, donalds, sharwarma, iron, kuch, mohammedia, guilt, selling, falafel, monster, kurkure, istah, tht, double, satisified, miyo, delivers, solution, anymore, periperi, pice, prantha, vomitted"
+spread,213,230,"acre, opted, thumsup, experiment"
+disappoint,213,229,"disappoints, occur, shree"
+fine,212,217,"aimbence, resemblance"
+egg,212,270,"scramble, mini, fiery, bheja, pellet, trace, pistachio"
+mandi,212,281,"mandis, ramzan, arabian, barkas"
+felt,212,232,"somewhat, overlooked, unreasonable"
+light,210,258,"brightly, contrast, dark, mirror"
+disappointed,210,219,"expecting, inedible, dumb"
+yummy,210,375,"absolute, veey, sizzling, chholey, pav, khatta, lick"
+mention,209,242,"coordinating, navaratri, rabina, bullet, khimchi, preference, delicacies, supremely"
+bar,208,224,"hitec, banquet, channel, adorn"
+almost,208,265,similar
+long,207,215,"amused, crash, crouded, butt"
+thank,207,291,"superlative, santosh, adil, zamir, rubina, caption, ms, beyond"
+pay,206,447,"unless, tax, isnt, account, recived, remove, cash, thousand, axis, worthless, plus, mrp, bank, calorie, deceive, negligible, final"
+end,205,325,"voila, smeets, papaya, custurd, recall, rottened, slay, forgot, fountain, keen, hummus, ganesh, gaitonde, shot, unknown, dp, bf, commonly"
+gold,205,212,"approachable, contract, fluctuation"
+pathetic,205,266,"impolite, lousy, incompetent, complaint"
+weekend,205,226,"buff, weeknight, esp, caution"
+care,204,269,"constructive, action, precaution, resolve, personalise, captain, imran, photo"
+dal,204,281,"bukhara, bhaji, paranthas, bundi, gol, te, khichdi, burji, aalu"
+view,203,283,"breathtaking, goa, voice, starry, beauty, ambient"
+leave,201,353,"consume, yuck, lol, den, disappear, state, maybe, confuse, bare"
+min,200,246,"cz, remind, wht"
+however,200,237,accord
+gravy,198,198,None
+highly,198,206,"peruvian, cheesey, healthier, granola"
+naan,198,198,None
+shake,197,220,"creaminess, pop"
+dj,196,221,"sunil, peppy, asif, tune, pretend, bo"
+fill,196,282,"outer, kinda, drench, generously, covered, capsicum"
+seem,196,309,"moreover, serious, aspect, annoy, stash, initially"
+late,195,221,"downstairs, woah, midnight"
+chef,195,256,"prakash, shaqeel, kumud, making, kundan, dedication, restaurent, mohit, malaysian, tarak, kranti, chimichuri, blessie, kobe, eager, guru"
+cuisine,194,338,"specialise, goshtmasala, spare, splendid, raagi, exhibit, cusinie, tibetan, daawat, regional, biryanis, boast, notorious, inspire, fare, liking, preservatives, authenticate, sophisticate, pulaos, immense"
+still,192,259,"heel, delivering, nobody, tastless, tat, wont, previous, fassos"
+city,192,256,"picturesque, hyper, hustle, mimic, property, swanky, aura, midst"
+specially,191,197,"mmm, wth"
+flavor,191,218,"nyonya, leaf, tuti"
+authentic,188,366,"awadhi, bind, real, nizam, satiate, garu, belong, royal, cooking, numb"
+hospitality,188,191,ankit
+mark,187,194,greasy
+paratha,186,217,"alloo, aaloo, bilkul, bonda, bhalla, mooli, rava, ghar"
+salad,186,242,"ceaser, basically, tuna, pea, sausages"
+tell,185,189,audacity
+tandoori,184,184,None
+inside,184,281,"cane, visible, bulb, compose, prop, giant, tall, toilet, humid, smoke, wear, sign, submerge"
+dry,183,211,"weird, soyabean, fishy"
+absolutely,182,227,"juiciness, ribs, interact, dilip, fantasy, pleased, unforgettable, garnished, lastly"
+couple,182,253,"past, newbie, drunch, pleasent, gig, pal, grace, wisely, rogue, smirnoff"
+without,181,269,"ho, absent, helpless, complete"
+another,178,236,"cue, spark, proceed, assume, sample, expertise, zest, nibble, meanwhile, respective, supply, pachadi"
+outlet,178,394,"shop, chii, chennai, bawarchi, mumbai, airport, creamstone, theobroma, housing, pang, line, craving, hamburger, rank, thus"
+mouth,178,300,"heaven, glance, gum, die, scrumptious, meeta, crumble"
+roti,176,179,mei
+box,176,242,"label, carton, mountain, ta, sabza, intact, upload, sutra, happiness, bomb, alive, gift"
+locate,175,185,"showroom, diversity"
+today,175,272,"zing, nvr, benchmark, grand, woh, aunt, email, mat, amazed, misplace, freebie, dissatisfaction, mathura, link, hd, nov, previously, visitied, thia, lesson"
+beautiful,174,223,"elegant, sexy, fourth, resembles, invite"
+new,172,237,"festive, yeah, category, introduce, globe, launch"
+cost,172,245,"inr, approximately, combos, wrt, potion, ai, steal, afford"
+huge,172,219,"unlike, congested, numerous, isb"
+pocket,170,233,budget
+favourite,170,404,"personal, alongwith, chai, among, doughnuts, zillion, farcha"
+compare,170,230,"unmatched, par, resonable, competition, define, comparison"
+combo,170,230,"idli, sev, program, sangati, kachori, kuttu, hota, roomali, puttar, wada, enchilada"
+totally,168,196,"tough, longer, phulka"
+onion,168,186,"chopped, root, bed"
+extremely,167,174,"unfriendly, spoiler"
+cafe,167,474,"driven, luxurious, bikes, automobile, madras, tit, porsche, school, triumph, crest, metallic, bikers, random, baking, stair, twin, weakness, caf, times, muscle, posh, advertisement, irani, endless, setting, graffiti, rustic, garage, superbikes, morning, mawa, concept, starbucks, sophisticated"
+sandwich,165,179,"lukmi, focaccia, spanish, misal"
+stuff,164,187,"shape, bhelpuri"
+since,163,214,"majority, reviews, dissapoint, decade, priority, closeby, repute, cousin, topic"
+half,162,200,"remain, breathe, nxt"
+expensive,161,254,"mnc, downside, indulgence, clueless, louder, product, compensate, rayala, affair, dent, overrated"
+soon,161,475,"moment, christmas, tomorrow, shall, forward, stay, willing, enthral, ther, kaushik, awexome, santhosh, fellow, shower, stellar, excited, falvours, law, mom, mate, hello, apologetic, modify, excite"
+old,160,253,"parsi, accessory, fashion, era, childhood, wallpaper, lift, frame, uplift, helmet, ad, model, blossom, telephone, mangalore, sync, meddle, everywhere"
+cool,159,250,"collection, convenient, wid, cum, garden, sublime, aesthetic"
+visited,159,203,"veganyums, leisurely, partner, survivingforfood, farewell, december, frnd, freaks"
+punjabi,157,207,"gal, essence, lal, lababdaar"
+desert,156,180,"appam, rehmat, select"
+fast,156,173,"speed, expense"
+wonderful,156,168,"ongoing, vr"
+lovely,155,157,recognize
+outside,155,189,"lawn, condition"
+potato,155,155,None
+miss,155,238,"payasam, copy, dig, magic, podi, havent, missed, bus, orgasmic, relate, stealer, touched, exaggerate, dotsol, colorful, names, atoneplaceonline, khichadi, whop"
+choice,154,197,"plenty, aplenty, pre"
+whole,154,230,"devoid, incredible, remotely, neways, create, nadi, strand, dislike, complaints, stretchy, lantern, five, bench, glue, thigh"
+momos,154,200,"ramen, metal, chokha, bandi, hum"
+expectation,154,154,None
+mr,153,159,"treated, purmita"
+wrap,153,155,chaska
+bill,152,180,"count, noone, pannier"
+receive,151,165,"damp, body, triptify"
+charge,148,163,"exorbitant, dude, mineral, insult"
+amount,148,166,"lesser, anti, complementary"
+regular,148,152,"backup, khaju"
+hard,147,217,"neither, rubber, expiry, insufficient, partha, ordering, quote"
+ordered,147,170,"vegetarians, reference, ordred, jus, lemongrass"
+properly,147,158,"stinky, chewiness, blant, fungus"
+counter,146,161,"conveyor, tray, curt"
+waste,146,180,"filled, sep, couldnot, dishearten, cancellation, spent, refrain"
+packaging,145,194,"parota, inconsistent, thumb, yumilicious, correctly, affect"
+dont,144,171,"judge, bathroom, shit"
+red,144,153,"cry, veggies, tortilla"
+fruit,144,156,"bessen, fruity"
+sunday,144,156,"mist, stack, rave"
+group,144,144,None
+chutney,143,148,dhaniya
+home,143,149,"thot, pregnant"
+spend,143,188,"noise, wan, yall"
+reasonable,142,142,None
+choose,142,202,"macaroon, pdr, cast, widespread, whichever, attract, gluten, savoury, haha, smart, phenomenon"
+office,142,144,fate
+everyone,142,171,"baklawa, indigril, sincerely, tho, definately, kiran, ola, fo"
+hotel,141,379,"sheraton, amenity, hi, marriott, fi, legacy, outset, sister, caters, mahal, presence, dear, exhaust, discussion, singer, simbas, piss, industry, ethic, cleanly, fod, apartment, feeling, hospital, suresh, witness"
+interior,141,143,tranquil
+till,141,171,"electronic, dnt, spider, invitation, slide, aunty, frank"
+hyderabadi,141,144,fyi
+thali,140,146,"dhahi, bhel"
+management,138,141,negligence
+mocktails,138,176,"kolini, calvados, mandatory, deadly, sparkle, madness, rum, bokum, liqueur, mary"
+check,138,157,"rule, verify"
+pork,138,174,"belly, steaky, kalbi, redeem"
+change,137,181,"important, target, approach, themself"
+treat,137,177,"daily, refer, prefers, abijit, speaks, pallet"
+outdoor,137,137,None
+dine,137,204,"primary, bn, together, etiquette, whereinhyderabad, strike"
+portion,136,139,outrageous
+vegetable,136,136,None
+poor,136,154,peace
+din,135,222,"class, locality, proactive, overal, cityscape, greet, hehe, juggle, foreign, vishal, underground, lifetime, sundays"
+point,135,396,"fancy, urge, mile, factor, role, efficiency, grave, satisfaction, room, importantly, addition, catcher, shoe, confused, photograph, headquarters, irrespective, favour, misconception, surround"
+near,134,151,"eatery, suite"
+finally,134,176,"needless, sheela, ahead"
+anything,134,144,"revert, utter"
+happen,134,147,"villa, visitor"
+pm,134,179,"onwards, trend, everybody, khaansaab, karan, reception"
+plate,133,145,"whereas, tool"
+let,133,172,"thought, overcrowded, dangerous"
+breakfast,132,193,"everyday, feast, gelatos, goodie, chese, gulaab"
+location,132,138,"ambiece, inner"
+hope,132,138,"freshener, compel"
+bite,131,138,"unlucky, thickness"
+superb,131,131,None
+birthday,131,228,"kid, gastrohogger, device, yumy"
+smell,131,134,tobacco
+juicy,131,135,legs
+meat,131,138,pulusu
+do,130,190,"dressed, damn, babycorns, dat, tangadi, comply"
+base,130,147,"thyme, individual"
+friends,129,150,"enjoyment, console, checkout, gaming, bulky"
+else,129,272,"head, yay, yes"
+satisfy,129,133,"meticulous, basudev"
+fan,128,152,"joy, benedict, miyapur"
+multiple,128,130,til
+request,128,132,oblige
+pastry,127,159,premium
+help,127,133,catering
+friday,126,126,None
+play,126,132,"artifact, embience"
+thai,126,130,thukpa
+platter,126,126,None
+lemon,126,136,"screw, tai"
+include,126,231,"bajji, randomly, mud, chum, bengali, gatte, apart"
+away,125,191,"conditioner, petty, dounuts, break, duct, control, possibly, ventilation, cigarette, protect"
+cocktail,125,146,"godfather, cabanas, coming, blah, brandy, passion, toddy"
+tried,125,179,pick
+chill,125,145,"wind, socialize, blast"
+green,125,128,oatmeal
+pepper,124,124,None
+simply,122,189,"kay, arjun, amongst, tastiest, thier, ofcourse, njy"
+size,122,122,None
+house,122,149,"icreams, restro, telengana, confectionery, cheapest, history, kms"
+horrible,121,121,None
+server,121,141,"waiters, guide, shakil"
+melt,121,130,luscious
+welcome,121,131,"thankful, customisation, yammy"
+helpful,120,120,None
+roll,119,119,None
+veggie,119,119,None
+close,118,133,"understaffed, premise, silence, degree"
+donut,118,139,"eclair, naughty, bounty, relished, jelly, rip, loaf"
+rate,118,121,nicer
+although,118,167,"major, tickle, crabs, drawback, expected, rough"
+extra,117,128,"crouton, custom, merely, repellent"
+show,117,128,"positively, reachable"
+actually,116,176,"quotient, habit, brain, puke, honestly, goodness, adjust, pate, quietly, jaljeera"
+oil,116,116,None
+least,116,116,None
+favorite,116,116,None
+may,115,153,"eventually, learn, nowhere, un"
+reach,115,115,None
+book,115,127,"apps, gracefully, panjim"
+space,115,117,ca
+kitchen,113,190,"belonging, fisherman, wharf, receptionist, share, heartbroken, spray, activate"
+fried,113,113,None
+bowl,113,117,slimy
+aloo,112,112,None
+hang,112,119,"altogether, photoshoot"
+rooftop,112,112,None
+chilly,112,112,None
+saturday,111,111,None
+style,111,115,"hanging, kodivepudu"
+put,110,125,"scare, stored, reek, upgrade, unclean"
+mind,110,229,"fume, hoch, dis, tastebuds, alone, innovation, dream, sig, warn, na"
+completely,110,138,"hai, pain, satisfying, medicine, kinds"
+ka,110,126,"teekha, palang, horse, gram, sarso, shashlik"
+bring,110,113,impulse
+number,110,172,"customized, additional, trick, takeaway, restraint, patron, information, depend, voucher"
+probably,110,161,"excels, suffocate, thickshake, individually, shift, tricky, kept, currently, oder, describes, equal, appal"
+haleem,110,177,"biriyanis, doubt, truely, sankati, gorge, calcutta, biryaani"
+tea,109,109,None
+date,108,145,"um, rakshita, getaway, priyadarshini, sonalin, sher, cooperate, temper, vis, conduct"
+section,108,126,"widely, beverages, concrete, soothing, decorated, wifey"
+turn,108,119,"indicate, pepperoni, cherish"
+bakery,108,130,"gifting, namkeen, establishment, bangalore, span"
+tender,108,108,None
+mango,107,107,None
+perfectly,107,107,None
+simple,107,149,"interesting, rajasthan"
+minute,107,110,se
+talk,106,138,cause
+upto,106,106,None
+instead,106,106,None
+second,106,108,caught
+mint,106,106,None
+type,106,117,"considerable, vary, perk"
+usually,105,131,"abide, throng, curiosity, tase, venture, bestseller, destination"
+etc,105,118,"hut, promising"
+makhani,105,109,vadas
+pulao,104,128,"oorugallu, appearance, miriyala, palau, mandhi, pandu, guthivankaya, mirapakaya, chapala"
+fun,104,106,preffered
+yum,104,125,"hollow, letdown, drool, deliciously, sava, precise"
+set,104,104,None
+online,103,106,matching
+mix,103,105,distinguish
+follow,103,333,"instagram, dieeating, page, facebook, com, www, http, curiousfoodieswanderlust, hyderabadfoodexplorer, wordpress, im, twitter, thefoodpotato, google, technology, marriot, gacchibowli, gradually, physical, hardcore, khaana, commercial, foodphotography, cn, wana, gd, rep, express, addict"
+glass,103,118,"automatically, board, jar"
+india,102,116,"prevent, heritage, influence, population"
+ur,102,145,"respectful, hey, assistance, politeness, pradhan, develop"
+match,101,101,None
+busy,101,101,None
+indoor,101,101,None
+anyone,101,135,"strictly, trouble, drain, tired"
+surprise,101,113,"weight, blessing, shld"
+prompt,100,104,"avinash, hussain"
+colleague,100,106,"ten, conjunction"
+snack,100,105,"icecrm, plethora"
+prepare,100,155,"prepared, immediate, instruct, pleasing"
+low,100,111,"shady, restaurents, vendor"
+reason,100,124,"percent, finding, useless, deserves, neglect"
+twice,100,109,"parotha, character, drag"
+prefer,99,104,cuz
+level,99,118,"moderation, aback, king"
+guest,98,100,pushkar
+wish,98,110,"thinking, survive, trash"
+list,98,202,"frequently, favs, stopper, establish, lay, goto, bliss, age, bid, sundaes, safely, thght, chose, ricotta"
+term,98,108,"justified, aside"
+club,98,108,"highlife, bhai, got"
+tomato,98,98,None
+decide,97,101,blogger
+forget,97,166,"oh, bloody, redundant, smash, poorly"
+rude,97,113,"human, stupid"
+proper,97,127,"suck, exist"
+clean,97,110,"construction, passing, inconvenient"
+bland,96,96,None
+issue,96,96,None
