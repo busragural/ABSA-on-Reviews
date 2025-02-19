@@ -1,16 +1,7 @@
-
-aspects = {
-    'food' : ["food","foods","fod", "foodgasm", "foody", "survivingforfood", "fooding"],
-    'ambiance': ["ambiance","ambience", "ambinence", "ambince", "ambieance", "embience", "ambienece", "ambient", "ambeince", "silence", "exprience", "ambiece", "aimbence", "atmosphere", "setup", "deck", "decor", "lightning","lighting" ,"vibe", "lighten","cozy", "sunlight", "seating", "wedding", "dancefloor", "groom", "electric", "vibes", "environment"],
-    'service' : ["service", "servicing", "serving", "servise", "sarvice", "serivice", "sevice", "serv", "seevice", "advice", "device", "responsive", "served", "servered"],
-    'taste': ["taste", "tastebud", "tastebuds", "tastey","tastewise", "tasted", "tasts", "tastefull", "tasteful", "tast", "tasteless", "tastless","tastier","tastiest", "tasting"],
-    'staff' : ["staff","attentive", "staf", "waitress", "gentleman", "crew", "behavior"],
-    'waiting time': ["waiting time", "gap", "waitin time"],
-    'quality' : ["quality", "quanity","quaint", "quattro"],
-    'quantity': ["quantity", "identity"],
-    'delivery' : ["delivery", "delivers", "deliverd", "delivered", "delivering", "delivary", "package", "packet", "packing"],
-    'cleanliness': ["hygienic", "health", 'cleanliness', 'clean', 'unclean', 'cleaned', 'cleaness', 'cleanly', 'cleaner'],
-    'price' : ["pricing","cost","costly","overpriced","pricy", "pricey","pricier", "unreasonable", "affordable"],
-    'music': ["music","lively", "loud","playing", "song", "hollywood","musician", "track"],
-
+aspects= {
+    'food': "Food, taste, chicken, biryani, veg, paneer, dish, rice, menu, item, fry, spicy, sweet, butter, sauce, cheese, starter, main, course, buffet, drink, delicious, meal, cuisine, ingredient, flavor, portion, fresh, seasoning, presentation, quantity and tasty.",
+    'ambiance': "Ambience, music, ambience, people, table, atmosphere, environment, light, seating, comfort, noise, temperature, ventilation, space, experience and decor.",
+    'service': "Service, staff, waiter, customer, delivery, order, serve, wait, behavior, hospitality, polite, response, accuracy, assistance, queue, packaging, speed and friendly.",
+    'cleanliness': "Clean, hygiene, safety, utensils, dust, dirt, bug, stain, spot, sanitation and sanitary.",
+    'price': "Price, money, affordability, expensive, overpriced, cheap, discounts, offers, budget and value."
 }

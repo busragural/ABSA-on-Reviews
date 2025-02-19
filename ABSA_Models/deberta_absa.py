@@ -1,6 +1,6 @@
 import spacy
 import pandas as pd
-import ast  # Aspect dictionary'yi güvenli şekilde import etmek için
+import ast  
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
